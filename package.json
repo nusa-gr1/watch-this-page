@@ -1,0 +1,16 @@
+{
+  "name": "friday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppet.js",
+  "scripts": {
+    "start": "node ./puppet.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  }
+}
